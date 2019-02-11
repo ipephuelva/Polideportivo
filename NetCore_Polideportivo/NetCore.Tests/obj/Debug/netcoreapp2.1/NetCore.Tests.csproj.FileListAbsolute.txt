@@ -1,0 +1,11 @@
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\NetCore.Tests.deps.json
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\NetCore.Tests.runtimeconfig.json
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\NetCore.Tests.runtimeconfig.dev.json
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\bin\Debug\netcoreapp2.1\NetCore.Tests.dll
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\obj\Debug\netcoreapp2.1\NetCore.Tests.csprojAssemblyReference.cache
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\obj\Debug\netcoreapp2.1\NetCore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\obj\Debug\netcoreapp2.1\NetCore.Tests.AssemblyInfoInputs.cache
+C:\Users\Arki\Desktop\NetCore_full_v3\NetCore.Tests\obj\Debug\netcoreapp2.1\NetCore.Tests.AssemblyInfo.cs
